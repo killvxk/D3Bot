@@ -1,3 +1,5 @@
+Код не рабочий.
+
 Usign libs:
 -Opencv 2.4.3
 -LibCurl 7.28.1
