@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3Bot 3.0", "D3Bot 3.0\D3Bot 3.0.vcxproj", "{CE72DCF1-BC70-459A-B649-D1FFAE8854BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3Bot Birthday", "D3Bot Birthday\D3Bot Birthday.vcxproj", "{3D45BDED-252E-4258-8B6D-FDF7AF88D59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE72DCF1-BC70-459A-B649-D1FFAE8854BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE72DCF1-BC70-459A-B649-D1FFAE8854BC}.Debug|Win32.Build.0 = Debug|Win32
+		{CE72DCF1-BC70-459A-B649-D1FFAE8854BC}.Release|Win32.ActiveCfg = Release|Win32
+		{CE72DCF1-BC70-459A-B649-D1FFAE8854BC}.Release|Win32.Build.0 = Release|Win32
+		{3D45BDED-252E-4258-8B6D-FDF7AF88D59D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D45BDED-252E-4258-8B6D-FDF7AF88D59D}.Debug|Win32.Build.0 = Debug|Win32
+		{3D45BDED-252E-4258-8B6D-FDF7AF88D59D}.Release|Win32.ActiveCfg = Release|Win32
+		{3D45BDED-252E-4258-8B6D-FDF7AF88D59D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
